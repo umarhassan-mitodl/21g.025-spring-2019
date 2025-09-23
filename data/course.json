@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2019",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "African History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ]
+  ],
+  "legacy_uid": "5ecc8b79-3e3a-e90c-0fcc-f7a8cecced31",
+  "instructors": {
+    "content": [
+      "c5fe9c2a-5d86-ce97-8182-fb1f1e498ac5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "26bef9d2-1251-3007-880e-f054426062ca",
+    "website": "21g-025-africa-and-the-politics-of-knowledge-spring-2019"
+  },
+  "course_title": "Africa and the Politics of Knowledge",
+  "course_description": "This course considers how, despite its immense diversity, Africa continues to hold purchase as both a geographical entity and meaningful knowledge category. It examines the relationship between articulations of \"Africa\" and projects like European imperialism, developments in the biological sciences, African de-colonization and state-building, and the imagining of the planet's future. Readings in anthropology and history are organized around five themes: space and place, race, representation, self-determination, and time.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.025",
+  "course_image_thumbnail": {
+    "content": "1bc2c891-be93-318f-7617-42f863412460",
+    "website": "21g-025-africa-and-the-politics-of-knowledge-spring-2019"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "08fc02a2-cad2-401b-a84e-505473343ce7",
+  "site_short_id": "21g.025-spring-2019",
+  "site_url_path": "courses/21g-025-africa-and-the-politics-of-knowledge-spring-2019",
+  "title": "Course Metadata"
+}

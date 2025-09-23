@@ -1,0 +1,22 @@
+leftnav:
+- identifier: 5bf0340d-8797-1854-948b-5853ba2232b7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: bbea546b-0af6-e34f-3230-e94ba6d25e8d
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 3d2704ac-18f7-99b4-a3fe-115d28c9b0c6
+  name: Readings and Films
+  pageRef: /pages/readings-and-films
+  weight: 30
+- identifier: 2e3e5e12-d5d6-3247-b341-afdeecdbc361
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 57e005ef-1054-0af7-943c-a3de251a9b5b
+  name: Final Project Prospectus Guidelines
+  pageRef: /pages/assignments/final-project-prospectus-guidelines
+  parent: 2e3e5e12-d5d6-3247-b341-afdeecdbc361
+  weight: 50
