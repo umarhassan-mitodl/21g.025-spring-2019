@@ -107,9 +107,9 @@ For detail on the activities listed in the table, see the {{% resource_link 2e3e
 Writing Support
 ---------------
 
-The {{% resource_link "ff9bcec6-6763-4384-8cb5-f6f0b1359a5f" "Writing and Communication Center (WCC)" %}} at MIT offers MIT students _free_ one-on-one professional advice from communication experts. The WCC works with undergraduate, graduate students, post-docs, faculty, staff, alums, and spouses. The WCC helps you strategize about all types of academic and professional writing as well as about all aspects of oral presentations (including practicing classroom presentations & conference talks as well as designing slides). The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.
+The [Writing and Communication Center (WCC)](https://cmsw.mit.edu/writing-and-communication-center/) at MIT offers MIT students _free_ one-on-one professional advice from communication experts. The WCC works with undergraduate, graduate students, post-docs, faculty, staff, alums, and spouses. The WCC helps you strategize about all types of academic and professional writing as well as about all aspects of oral presentations (including practicing classroom presentations & conference talks as well as designing slides). The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.
 
 Academic Integrity
 ------------------
 
-MIT students are expected to adhere to MIT’s {{% resource_link "ca4f7f22-d357-463e-9290-a7f3efa42730" "Academic Integrity" %}} policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
+MIT students are expected to adhere to MIT’s [Academic Integrity](https://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.

@@ -65,7 +65,7 @@ Reading response #4 due
 
 Historicizing Africa
 
-Guest lecture by {{% resource_link "c95966d1-4fda-4556-aaed-d067b31fc4fa" "Prof. Kenda Mutongi" %}}, MIT History Department
+Guest lecture by [Prof. Kenda Mutongi](http://history.mit.edu/people/kenda-mutongi), MIT History Department
 
 {{< tdclose >}}{{< tdopen >}}
 Reading response #5 due
@@ -78,7 +78,7 @@ Reading response #6 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Guest presentation and workshop by professional Vodou dance practitioner and Vodou priest, {{% resource_link "e7fdd5b7-978d-471a-b3bb-3f1d515b7a1b" "Jean-Sébastien Duvilaire" %}}
+Guest presentation and workshop by professional Vodou dance practitioner and Vodou priest, [Jean-Sébastien Duvilaire](https://www.jsddance.com/)
 {{< tdclose >}}{{< tdopen >}}
 Reading response #7 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -109,7 +109,7 @@ Reading response #10 due
 
 *Special event - screening:*
 
-“{{% resource_link "c0351e6c-fa7d-4055-9f90-6d2703dbc474" "Rafiki" %}}.” Women Take the Reel Film Series, MIT List Visual Arts Center.
+“[Rafiki](https://www.imdb.com/title/tt8286894/).” Women Take the Reel Film Series, MIT List Visual Arts Center.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -119,7 +119,7 @@ The Black African body (I)
 
 *Field trip:*
 
-“{{% resource_link "e288b99e-be3b-413f-926e-0a1d214db17e" "Made Visible: Contemporary South African Art, Fashion and Identity" %}}” exhibition, Museum of Fine Arts.
+“[Made Visible: Contemporary South African Art, Fashion and Identity](https://www.mfa.org/exhibitions/made-visible)” exhibition, Museum of Fine Arts.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading response #11 due
@@ -199,7 +199,7 @@ Final paper outline / first draft due
 
 *Special event:*
 
-{{% resource_link "2834614e-6fd1-4f27-9efb-39e70a8829c3" "“Inadelso Cossa: Personal Perspectives on Mozambican History through Film" %}}.” MIT Program in Art, Culture, and Technology.
+[“Inadelso Cossa: Personal Perspectives on Mozambican History through Film](http://act.mit.edu/projects-and-events/lectures-series/2019-spring/may-6-inadelso-cossa/).” MIT Program in Art, Culture, and Technology.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -207,7 +207,7 @@ Final paper outline / first draft due
 
 Telling stories of African pasts, presents, futures
 
-Guest visit by Mozambican filmmaker {{% resource_link "0a1bd833-1798-446b-8c84-3332109d9f42" "Inadelso Cossa" %}}
+Guest visit by Mozambican filmmaker [Inadelso Cossa](http://act.mit.edu/people/guests/inadelso-cossa/)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading response #20 due 
